@@ -1,5 +1,5 @@
 # NewYork Taxi Trip Analysis
-This project consists of two parts; Data Exploration and Hypothesis Testing.
+Exploring and analysing a real world dataset which includes taxi trips in a span of two weeks in New York City. This project consists of two parts; Data Exploration and Hypothesis Testing.
 
 | Data Exploration        |                       
 | ------------------------|                      
@@ -15,3 +15,6 @@ This project consists of two parts; Data Exploration and Hypothesis Testing.
 | ------------------------|                      
 |1-Does passenger group size affect the distance?| 
 |2-Do trip distances increase in weekends?| 
+
+PS: Jupyter Notebook (Python 3.7) used for this project
+Do not hesitate to ask questions or report a bug via opening an "Issue"
