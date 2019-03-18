@@ -16,5 +16,5 @@ Exploring and analysing a real world dataset which includes taxi trips in a span
 |1-Does passenger group size affect the distance?| 
 |2-Do trip distances increase in weekends?| 
 
-PS: Jupyter Notebook (Python 3.7) used for this project
+PS: Jupyter Notebook (Python 3.7) used for this project \n
 Do not hesitate to ask questions or report a bug via opening an "Issue"
